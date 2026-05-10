@@ -26,7 +26,7 @@ export function Header() {
         </nav>
 
         <a
-          href="#pricing"
+                      href="https://t.me/ticktack_robot"
           className="flex items-center gap-2 bg-[#f0b000] text-[#06070d] px-4 py-2 text-xs font-bold uppercase tracking-wider rounded hover:bg-[#ffd740] transition-colors"
         >
           <Zap className="w-3.5 h-3.5" />
