@@ -41,7 +41,7 @@ export function PricingSection() {
 
             {/* CTA */}
             <a
-              href="#"
+                          href="https://t.me/ticktack_robot"
               className="inline-flex items-center gap-3 bg-[#f0b000] text-[#06070d] px-10 py-4 text-base font-bold uppercase tracking-wider rounded-lg pulse-gold hover:bg-[#ffd740] transition-colors"
             >
               <Zap className="w-5 h-5" />
