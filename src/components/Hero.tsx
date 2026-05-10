@@ -39,7 +39,7 @@ export function Hero() {
         {/* CTA */}
         <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
           <a
-            href="#pricing"
+                        href="https://t.me/ticktack_robot"
             className="bg-[#f0b000] text-[#06070d] px-8 py-4 text-sm font-bold uppercase tracking-wider rounded pulse-gold hover:bg-[#ffd740] transition-colors"
           >
             Купить за 1 490 ₽
